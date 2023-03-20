@@ -28,7 +28,7 @@ I am passionate about my work & highly organized. I am an excellent communicator
 ### Front-end development:
 
 - HTML | CSS | SCSS | JS
-- React | Redux | Redux-thunk
+- React | Redux | Redux-thunk | Angular | NEXT.Js | Gatsby.Js
 - Bootstrap | Tailwind | Material and other liabraries
 
 ### Back-end development:
@@ -56,6 +56,7 @@ I am passionate about my work & highly organized. I am an excellent communicator
 - Web 3
 - Metaverse
 - IOT
+- islamic Banking
 
 ## 💬 Ask me about:
 
@@ -67,3 +68,5 @@ muddassiralirana786@gmail.com
 [<img src="./icons/ig_icon.png" width="30" height="30">](https://www.instagram.com/muddassiralirana/)&nbsp;
 [<img src="./icons/linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/muddassiralirana/)&nbsp;
 [<img src="./icons/fb.png" width="40" height="40">](https://www.facebook.com/muddassiralirana)&nbsp;
+[<img src="./icons/web.png" width="40" height="40">](https://muddassiralirana.netlify.app/)&nbsp;
+
