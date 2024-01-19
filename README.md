@@ -62,6 +62,8 @@ I am passionate about my work & highly organized. I am an excellent communicator
 
 muddassiralirana786@gmail.com
 
+muddassiralirana.netlify.app
+
 ## 📫 How to reach me:
 
 [<img src="./icons/twitter_icon.png" width="30" height="30">](https://twitter.com/muddassirali085)&nbsp;
